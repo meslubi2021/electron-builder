@@ -160,5 +160,3 @@ Please note that everything is packaged into an asar archive [by default](https:
 For an app that will be shipped to production, you should sign your application. See [Where to buy code signing certificates](https://www.electron.build/code-signing#where-to-buy-code-signing-certificate).
 
 ## Donate
-
-We do this open source work in our free time. If you'd like us to invest more time on it, please [donate](https://www.electron.build/donate).
